@@ -1,0 +1,8 @@
+MIDlet-1: tkb,,tkb
+MIDlet-Jar-Size: 8570
+MIDlet-Jar-URL: tkb.jar
+MIDlet-Name: tkb Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
